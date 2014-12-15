@@ -5,4 +5,10 @@ Automatic roommate selection programming. Finds an optimal configuration of peop
 
 See DOCUMENTATION for more information. 
 
-![Alt text](/Instructions.pdf "Instructions")
+![img](/images/a.png)
+![img](/images/b.png)
+![img](/images/c.png)
+![img](/images/d.png)
+![img](/images/e.png)
+![img](/images/f.png)
+![img](/images/g.png)
